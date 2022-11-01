@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Println("test")
+	log.Println("fix bug")
 }
